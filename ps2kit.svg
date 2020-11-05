@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="41.010349mm"
+   height="11.018921mm"
+   viewBox="0 0 41.010349 11.018921"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="ps2kit.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient931">
+      <stop
+         style="stop-color:#005f78;stop-opacity:1"
+         offset="0"
+         id="stop927" />
+      <stop
+         style="stop-color:#002ece;stop-opacity:1"
+         offset="1"
+         id="stop929" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient925">
+      <stop
+         style="stop-color:#5d9200;stop-opacity:1"
+         offset="0"
+         id="stop921" />
+      <stop
+         style="stop-color:#00b618;stop-opacity:1"
+         offset="1"
+         id="stop923" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient905">
+      <stop
+         style="stop-color:#aaff15;stop-opacity:1"
+         offset="0"
+         id="stop901" />
+      <stop
+         style="stop-color:#32ff4d;stop-opacity:1"
+         offset="1"
+         id="stop903" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient891">
+      <stop
+         style="stop-color:#15ceff;stop-opacity:1"
+         offset="0"
+         id="stop887" />
+      <stop
+         style="stop-color:#3260ff;stop-opacity:1"
+         offset="1"
+         id="stop889" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient931"
+       id="linearGradient893"
+       x1="68.384865"
+       y1="149.53581"
+       x2="68.384865"
+       y2="143.64317"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0230731,0,0,1.0230731,-4.1796957,0)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient905"
+       id="linearGradient917"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(26.426259,-0.48244809)"
+       x1="68.384865"
+       y1="149.53581"
+       x2="68.384865"
+       y2="143.64317" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient891"
+       id="linearGradient919"
+       gradientUnits="userSpaceOnUse"
+       x1="68.384865"
+       y1="149.53581"
+       x2="68.384865"
+       y2="143.64317"
+       gradientTransform="translate(0,-0.48244809)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient931"
+       id="linearGradient1029"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0463236,0,0,1.0463236,0.03206762,-13.302282)"
+       x1="68.384865"
+       y1="149.53581"
+       x2="68.384865"
+       y2="143.64317" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient925"
+       id="linearGradient1035"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.97503726,0,0,0.97503727,30.221702,0.62209244)"
+       x1="68.384865"
+       y1="149.53581"
+       x2="68.384865"
+       y2="143.64317" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="76.342128"
+     inkscape:cy="18.658765"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     fit-margin-top="0.2"
+     fit-margin-left="0.2"
+     fit-margin-bottom="0.2"
+     fit-margin-right="0.2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1035"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-58.153515,-140.2989)">
+    <text
+       xml:space="preserve"
+       style="font-size:10.8275px;line-height:1.25;font-family:'BTSE + PS2 FONT';-inkscape-font-specification:'BTSE + PS2 FONT';fill:url(#linearGradient893);fill-opacity:1;stroke-width:0.270688"
+       x="57.037483"
+       y="152.31154"
+       id="text885"
+       transform="scale(1.0230731,0.97744726)"
+       inkscape:export-xdpi="512"
+       inkscape:export-ydpi="512"><tspan
+         sodipodi:role="line"
+         id="tspan883"
+         x="57.037483"
+         y="152.31154"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.8275px;font-family:'HKI metropol';-inkscape-font-specification:'HKI metropol, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient893);fill-opacity:1;stroke-width:0.270688">ps2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.0736px;line-height:1.25;font-family:'BTSE + PS2 FONT';-inkscape-font-specification:'BTSE + PS2 FONT';fill:url(#linearGradient1029);fill-opacity:1;stroke-width:0.27684"
+       x="62.640472"
+       y="142.4707"
+       id="text1027"
+       transform="scale(0.95252491,1.0498413)"
+       inkscape:export-xdpi="512"
+       inkscape:export-ydpi="512"><tspan
+         sodipodi:role="line"
+         id="tspan1025"
+         x="62.640472"
+         y="142.4707"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.0736px;font-family:'HKI metropol';-inkscape-font-specification:'HKI metropol, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient1029);fill-opacity:1;stroke-width:0.27684">ps2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:10.319px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Ultra-Bold';opacity:1;fill:url(#linearGradient1035);fill-opacity:1;stroke-width:0.257978"
+       x="88.56459"
+       y="145.78224"
+       id="text1033"
+       transform="scale(0.98240974,1.0179052)"
+       inkscape:export-xdpi="512"
+       inkscape:export-ydpi="512"><tspan
+         sodipodi:role="line"
+         id="tspan1031"
+         x="88.56459"
+         y="145.78224"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:10.319px;font-family:Lato;-inkscape-font-specification:'Lato Ultra-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient1035);fill-opacity:1;stroke-width:0.257978">kit</tspan></text>
+  </g>
+  <g
+     inkscape:label="Layer 1 copy"
+     inkscape:groupmode="layer"
+     id="g915"
+     transform="translate(-58.153515,-140.2989)">
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:1.25;font-family:'BTSE + PS2 FONT';-inkscape-font-specification:'BTSE + PS2 FONT';fill:url(#linearGradient919);fill-opacity:1;stroke-width:0.264583"
+       x="59.836563"
+       y="148.39404"
+       id="text909"
+       inkscape:export-xdpi="512"
+       inkscape:export-ydpi="512"><tspan
+         sodipodi:role="line"
+         id="tspan907"
+         x="59.836563"
+         y="148.39404"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'HKI metropol';-inkscape-font-specification:'HKI metropol, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient919);fill-opacity:1;stroke-width:0.264583">ps2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:1.25;font-family:'BTSE + PS2 FONT';-inkscape-font-specification:'BTSE + PS2 FONT';fill:url(#linearGradient917);fill-opacity:1;stroke-width:0.264583"
+       x="86.262817"
+       y="148.39404"
+       id="text913"
+       inkscape:export-xdpi="512"
+       inkscape:export-ydpi="512"><tspan
+         sodipodi:role="line"
+         id="tspan911"
+         x="86.262817"
+         y="148.39404"
+         style="font-style:italic;font-variant:normal;font-weight:800;font-stretch:normal;font-size:10.5833px;font-family:Lato;-inkscape-font-specification:'Lato Ultra-Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient917);fill-opacity:1;stroke-width:0.264583">kit</tspan></text>
+  </g>
+</svg>
