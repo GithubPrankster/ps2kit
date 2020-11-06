@@ -1,6 +1,3 @@
-#include <kern/mips/regdefs.h>
-#include <kern/syscall.h>
-
 .section .text
 .global __start
 .ent __start
