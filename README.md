@@ -15,4 +15,4 @@
 Have a problem? Something you'd like added? Bring it forward on *issues*! Want to talk directly to me? DM me on twitter @StarPrankster or Unevenmetalic Prankster#9347 on *discord*. I'm active a lot. It worries me!
 
 ### Developed by Uneven Prankster.
-### 2020
+### 2021
