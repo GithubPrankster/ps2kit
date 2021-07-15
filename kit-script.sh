@@ -3,8 +3,8 @@
 #feat. a noticeable lack of error checks
 mkdir -p build && cd build
 
-export GCC_VER=10.2.0
-export BINU_VER=2.35.1
+export GCC_VER=11.1.0
+export BINU_VER=2.36.1
 export PS2_TARGET=mips64r5900el-ps2-elf
 
 # GCC's main folder separates subfolders for each version unlike binutils
